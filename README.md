@@ -1,4 +1,8 @@
-#  Stack in C++
+<p align="center">
+  <img src="stack_imam.jpg" alt="stack_imam"/>
+</p>
+
+# Stack in C++
 
 This repository demonstrates how to use the **Stack** data structure in **C++** using the Standard Template Library (STL). A stack is a linear data structure that follows the **Last In, First Out (LIFO)** principle.
 
