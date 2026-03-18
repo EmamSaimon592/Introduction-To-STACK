@@ -50,5 +50,6 @@ int main() {
 
 # Upcoming quiz 
 coming soon...
+stack,  push,  pop, top, empty 
 
 
