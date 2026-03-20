@@ -21,33 +21,8 @@ A **Stack** allows operations at only one end – the **top**. The last element 
 
 ---
 
-##  Example Code
 
-```cpp
-#include <iostream>
-#include <stack>
-using namespace std;
-
-int main() {
-    stack<int> st;
-
-    st.push(10);
-    st.push(20);
-    st.push(30);
-
-    cout << "Top element: " << st.top() << endl; // 30
-
-    st.pop();
-
-    cout << "Top after pop: " << st.top() << endl; // 20
-    cout << "Stack size: " << st.size() << endl; // 2
-    cout << "Is stack empty? " << (st.empty() ? "Yes" : "No") << endl;
-
-    return 0;
-}
-
-```
-# 📚 Stack (DSA) Quiz Questions & Answers
+#  Stack (DSA) Quiz Questions & Answers
 
 ## 1. What is a Stack?
 **Answer:**  
